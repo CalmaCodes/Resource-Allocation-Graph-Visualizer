@@ -45,11 +45,11 @@ export default function RightPanel({
 
         <button
           onClick={resetSystem}
-          className="group w-10 h-10 rounded-2xl bg-zinc-900 border border-zinc-800 flex items-center justify-center hover:border-red-800 hover:bg-red-950/30 transition-all duration-300"
+          className="group w-11 h-11 rounded-2xl bg-zinc-900 border border-zinc-800 flex items-center justify-center hover:border-red-800 hover:bg-red-950/30 transition-all duration-300"
         >
           <svg
             xmlns="http://www.w3.org/2000/svg"
-            className="w-4 h-4 text-zinc-400 group-hover:text-red-300 group-hover:rotate-180 transition-all duration-500"
+            className="w-5 h-5 text-zinc-400 group-hover:text-red-300 group-hover:rotate-180 transition-all duration-500"
             fill="none"
             viewBox="0 0 24 24"
             stroke="currentColor"
