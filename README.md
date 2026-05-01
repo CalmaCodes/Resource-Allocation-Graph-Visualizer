@@ -6,7 +6,7 @@ An interactive **Operating Systems project** that demonstrates how processes and
 
 ## 🌐 Live Demo
 
-🔗 **Hosted Application:** https://os-rag.vercel.app
+🔗 **Hosted Application:** https://os-rag.vercel.app/
 
 ---
 
