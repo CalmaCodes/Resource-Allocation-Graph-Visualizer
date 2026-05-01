@@ -90,8 +90,8 @@ export default function GraphCanvas({
 
           <marker
             id="arrowWhite"
-            markerWidth="10"
-            markerHeight="10"
+            markerWidth="8"
+            markerHeight="8"
             refX="8"
             refY="3"
             orient="auto"
@@ -105,8 +105,8 @@ export default function GraphCanvas({
 
           <marker
             id="arrowRed"
-            markerWidth="10"
-            markerHeight="10"
+            markerWidth="8"
+            markerHeight="8"
             refX="8"
             refY="3"
             orient="auto"
