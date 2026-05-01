@@ -217,7 +217,9 @@ This project helps students understand:
 
 ## 👥 Team Members
 
-- Added to contributors 
+- Somtirtha Acharya — Project Development, Logic Integration, Deployment
+- Kajal Dahiya — Testing, Documentation, Review
+- M.Bhargav Naidu — Presentation, QA, Support
 
 ---
 
