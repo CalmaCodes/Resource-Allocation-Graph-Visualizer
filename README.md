@@ -16,11 +16,11 @@ An interactive **Operating Systems project** that demonstrates how processes and
 
 <img src="src/assets/plain.png" width="900"/>
 
-### Safe Scenario
+### Safe Scenario Preset
 
 <img src="src/assets/normal.png" width="900"/>
 
-### Deadlock Scenario
+### Deadlock Scenario Preset
 
 <img src="src/assets/deadlock.png" width="900"/>
 
